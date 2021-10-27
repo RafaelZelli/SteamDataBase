@@ -1,7 +1,7 @@
 # SteamDataBase
 Projeto do Módulo 3 da Resilia, utilizando banco de dados MySql e Metabase
 
-#Equipe
+# Equipe
  - Rafael Zelli
  - Brenner Ferreira
  - Prince Andrews
