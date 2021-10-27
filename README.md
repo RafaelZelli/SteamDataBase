@@ -1,5 +1,5 @@
-# SteamDataBase
-Projeto do Módulo 3 da Resilia, utilizando banco de dados MySql e Metabase
+# Steam Data Base
+Projeto Módulo 3 da Resilia, utilizando banco de dados MySql e Metabase
 
 # Equipe
  - Rafael Zelli
